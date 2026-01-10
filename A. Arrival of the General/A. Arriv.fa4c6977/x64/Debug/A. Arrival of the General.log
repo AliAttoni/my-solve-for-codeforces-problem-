@@ -1,0 +1,4 @@
+﻿  A. Arrival of the General.cpp
+C:\Users\DELL\Desktop\codeforcess problem\A. Arrival of the General\A. Arrival of the General.cpp(67,1): warning C4715: 'FoundIndexMinNumber': not all control paths return a value
+C:\Users\DELL\Desktop\codeforcess problem\A. Arrival of the General\A. Arrival of the General.cpp(57,1): warning C4715: 'FoundIndexMaxNumber': not all control paths return a value
+  A. Arrival of the General.vcxproj -> C:\Users\DELL\Desktop\codeforcess problem\A. Arrival of the General\x64\Debug\A. Arrival of the General.exe
