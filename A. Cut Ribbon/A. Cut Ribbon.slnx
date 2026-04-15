@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="A. Cut Ribbon/A. Cut Ribbon.vcxproj" Id="70aa8652-3b75-45a0-a7fc-3b7ed916158b" />
+</Solution>
